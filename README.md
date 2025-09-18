@@ -46,17 +46,17 @@ Java(TM) SE Runtime Environment (build 11.0.x+x-LTS)
 📦 Como Baixar e Configurar
 Opção 1: Download Direto
 
-Acesse: https://github.com/[seu_usuario]/scheduler-icevos-p1
+Acesse: https://github.com/Daadilo?tab=repositories
 Clique em "Code" → "Download ZIP"
 Extraia o arquivo para uma pasta de sua escolha
 
 Opção 2: Clone via Git
-bashgit clone https://github.com/[seu_usuario]/scheduler-icevos-p1.git
+bashgit clone  https://github.com/Daadilo?tab=repositories
 cd scheduler-icevos-p1
 Opção 3: IntelliJ IDEA
 
 File → New → Project from Version Control
-Cole a URL: https://github.com/[seu_usuario]/scheduler-icevos-p1.git
+Cole a URL:  https://github.com/Daadilo?tab=repositories
 Escolha a pasta de destino
 Clique em Clone
 
